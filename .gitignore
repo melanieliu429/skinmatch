@@ -36,4 +36,6 @@ yarn-error.log*
 next-env.d.ts
 
 model_training/skin_diseases_stuff/files/
+skinmatch-backend/skin_disease_classifier.h5
+
 
