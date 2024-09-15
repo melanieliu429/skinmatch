@@ -1,0 +1,5 @@
+# skinmatch-backend/requirements.txt
+fastapi
+uvicorn
+tensorflow
+pillow
