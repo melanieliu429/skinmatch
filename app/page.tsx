@@ -24,7 +24,6 @@ export default function Home() {
       setResults(data);
     }
   };
-
   return (
     <div className="min-h-screen bg-black text-white p-10 flex flex-col justify-center items-center">
       <header className="text-center">
